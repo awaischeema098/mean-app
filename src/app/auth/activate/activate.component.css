@@ -1,0 +1,20 @@
+.example-card {
+    max-width: 100%;
+    align-items: center;
+  }
+.mat-card-title {
+  text-align: center;
+  font-size: 30px;
+}  
+.mat-card-content > p {
+  font-size: 1rem;
+  background-color: rgba(70, 218, 132, 0.479);
+}  
+
+.goback{
+  text-align:center;
+  padding: 5px;
+}
+.goback >  button {
+  align-items: center;
+}

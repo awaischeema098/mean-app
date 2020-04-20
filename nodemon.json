@@ -1,0 +1,8 @@
+{
+    "env" : {
+    "JWT_KEY": "cheema",
+    "DB_PASSWORD": "mean_app_098",
+    "EMAIL" : "friendzone151@gmail.com",
+    "PASSWORD" : "Awais123"     
+    }
+}
